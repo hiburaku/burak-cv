@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hiburaku.github.io/burak-cv/sitemap.xml
