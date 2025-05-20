@@ -1,173 +1,140 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Redirect | Hugo Academic CV Theme</title>
-    <link>https://hiburaku.github.io/burak-cv/</link>
-      <atom:link href="https://hiburaku.github.io/burak-cv/index.xml" rel="self" type="application/rss+xml" />
-    <description>Redirect</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>https://hiburaku.github.io/burak-cv/media/icon_hu_645fa481986063ef.png</url>
-      <title>Redirect</title>
-      <link>https://hiburaku.github.io/burak-cv/</link>
-    </image>
-    
-    <item>
-      <title>About</title>
-      <link>https://hiburaku.github.io/burak-cv/home/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hiburaku.github.io/burak-cv/home/about/</guid>
-      <description>&lt;div align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://hiburaku.github.io/burak-cv/image/avatar.jpg&#34; alt=&#34;Burak Can Kaya avatar&#34; width=&#34;160&#34; height=&#34;160&#34; style=&#34;border-radius: 50%;&#34; /&gt;
-&lt;h2 id=&#34;burak-can-kaya&#34;&gt;Burak Can Kaya&lt;/h2&gt;
-&lt;p&gt;M.A. candidate in Interdisciplinary Studies of Middle East at Freie Universität Berlin with a strong foundation in humanitarian action.&lt;/p&gt;
-&lt;p&gt;Experienced in supporting international humanitarian organizations with a focus on field operations, third-party monitoring, and emergency response in complex and high-need contexts.&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;a href=&#34;https://hiburaku.github.io/burak-cv/files/burak_can_kaya_cv.pdf&#34; style=&#34;background-color: #4f46e5; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; margin: 5px; display: inline-block;&#34;&gt;📄 Download CV&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/burak-can-kaya-2a42b7163/&#34; target=&#34;_blank&#34; style=&#34;border: 2px solid #4f46e5; padding: 10px 20px; border-radius: 8px; text-decoration: none; margin: 5px; display: inline-block;&#34;&gt;💼 LinkedIn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:burakcankaya@hotmail.com&#34; style=&#34;border: 2px solid #4b5563; color: #4b5563; padding: 10px 20px; border-radius: 8px; text-decoration: none; margin: 5px; display: inline-block;&#34;&gt;✉️ Email me&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hiburaku.github.io/burak-cv/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hiburaku.github.io/burak-cv/home/experience/</guid>
-      <description>&lt;h2 id=&#34;reporting-officer&#34;&gt;Reporting Officer&lt;/h2&gt;
-&lt;div class=&#34;experience-header&#34;&gt;
-  &lt;h3&gt;Turkish Red Crescent&lt;/h3&gt;
-  &lt;img src=&#34;https://hiburaku.github.io/burak-cv/logos/trc.png&#34; alt=&#34;TRC Logo&#34; class=&#34;experience-logo-right&#34; /&gt;
-&lt;/div&gt;
-&lt;p&gt;Ankara, Türkiye&lt;br&gt;
-&lt;em&gt;June 2024 – October 2024&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Prepared Power BI dashboards and visual reports showcasing project performance over 5 years.&lt;/li&gt;
-&lt;li&gt;Collaborated with program teams to translate data into strategic insights.&lt;/li&gt;
-&lt;li&gt;Ensured data accuracy and consistency with M&amp;amp;E and IT departments.&lt;/li&gt;
-&lt;li&gt;Developed reporting templates and visualization tools aligned with donor requirements.&lt;/li&gt;
-&lt;li&gt;Contributed to monthly and quarterly narrative reports.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;field-officer&#34;&gt;Field Officer&lt;/h2&gt;
-&lt;div class=&#34;experience-header&#34;&gt;
-  &lt;h3&gt;International Federation of Red Cross and Red Crescent Societies (IFRC)&lt;/h3&gt;
-  &lt;img src=&#34;https://hiburaku.github.io/burak-cv/logos/ifrc.png&#34; alt=&#34;IFRC Logo&#34; class=&#34;experience-logo-right&#34; /&gt;
-&lt;/div&gt;
-&lt;p&gt;Gaziantep, Türkiye&lt;br&gt;
-&lt;em&gt;July 2023 – December 2023&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Supported earthquake recovery as part of the Emergency Response Unit (ERU).&lt;/li&gt;
-&lt;li&gt;Joined field visits and ESSN coordination meetings.&lt;/li&gt;
-&lt;li&gt;Built data visualizations using Power BI.&lt;/li&gt;
-&lt;li&gt;Conducted joint field missions with TRC teams.&lt;/li&gt;
-&lt;li&gt;Participated in coordination meetings and supported field-level planning and monitoring.&lt;/li&gt;
-&lt;li&gt;Flagged protection/outreach/SASF issues to IFRC management.&lt;/li&gt;
-&lt;li&gt;Liaised with local authorities, UN agencies, and NGOs.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;field-assistant&#34;&gt;Field Assistant&lt;/h2&gt;
-&lt;div class=&#34;experience-header&#34;&gt;
-  &lt;h3&gt;International Federation of Red Cross and Red Crescent Societies (IFRC)&lt;/h3&gt;
-  &lt;img src=&#34;https://hiburaku.github.io/burak-cv/logos/ifrc.png&#34; alt=&#34;IFRC Logo&#34; class=&#34;experience-logo-right&#34; /&gt;
-&lt;/div&gt;
-&lt;p&gt;Gaziantep, Türkiye&lt;br&gt;
-&lt;em&gt;May 2022 – July 2023&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Supported earthquake recovery as part of the ERU.&lt;/li&gt;
-&lt;li&gt;Attended field visits and meetings for the ESSN Project.&lt;/li&gt;
-&lt;li&gt;Managed finance, administration, logistics at IFRC Gaziantep Office.&lt;/li&gt;
-&lt;li&gt;Prepared dashboards in Power BI based on team needs.&lt;/li&gt;
-&lt;li&gt;Liaised with Finance, Admin, Logistics, Procurement, and IM teams in Ankara.&lt;/li&gt;
-&lt;li&gt;Oversaw drivers, security, and cleaning staff in Gaziantep office.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;international-key-account-manager&#34;&gt;International Key Account Manager&lt;/h2&gt;
-&lt;div class=&#34;experience-header&#34;&gt;
-  &lt;h3&gt;Vestel International&lt;/h3&gt;
-  &lt;img src=&#34;https://hiburaku.github.io/burak-cv/logos/vestel.png&#34; alt=&#34;Vestel Logo&#34; class=&#34;experience-logo-right&#34; /&gt;
-&lt;/div&gt;
-&lt;p&gt;Manisa, Türkiye&lt;br&gt;
-&lt;em&gt;January 2022 – May 2022&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Managed 11+ clients across six countries with $42.5M annual turnover.&lt;/li&gt;
-&lt;li&gt;Handled full sales cycle from offers to payments and shipments.&lt;/li&gt;
-&lt;li&gt;Promoted new products during client visits and international expos.&lt;/li&gt;
-&lt;li&gt;Tracked market trends and responded with R&amp;amp;D launches.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;business-intelligence-intern&#34;&gt;Business Intelligence Intern&lt;/h2&gt;
-&lt;div class=&#34;experience-header&#34;&gt;
-  &lt;h3&gt;Migrapreneur&lt;/h3&gt;
-  &lt;img src=&#34;https://hiburaku.github.io/burak-cv/logos/migrapreneur.png&#34; alt=&#34;Migrapreneur Logo&#34; class=&#34;experience-logo-right&#34; /&gt;
-&lt;/div&gt;
-&lt;p&gt;Berlin, Germany&lt;br&gt;
-&lt;em&gt;June 2021 – September 2021&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Researched migrant entrepreneurship in Germany (Turkish, Polish, Italian).&lt;/li&gt;
-&lt;li&gt;Authored reports and insights to improve business intelligence.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;volunteer--data-collection--mapping&#34;&gt;Volunteer – Data Collection &amp;amp; Mapping&lt;/h2&gt;
-&lt;div class=&#34;experience-header&#34;&gt;
-  &lt;h3&gt;Go For (Youth Organizations Forum)&lt;/h3&gt;
-  &lt;img src=&#34;https://hiburaku.github.io/burak-cv/logos/gofor.png&#34; alt=&#34;GOFOR Logo&#34; class=&#34;experience-logo-right&#34; /&gt;
-&lt;/div&gt;
-&lt;p&gt;Ankara, Türkiye&lt;br&gt;
-&lt;em&gt;August 2020 – June 2021&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Collected and analyzed youth rights violation data during COVID-19.&lt;/li&gt;
-&lt;li&gt;Conducted literature reviews and supported reporting &amp;amp; mapping efforts.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hiburaku.github.io/burak-cv/home/education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hiburaku.github.io/burak-cv/home/education/</guid>
-      <description>&lt;h2 id=&#34;masters-degree-interdisciplinary-studies-of-the-middle-east&#34;&gt;Master’s Degree, Interdisciplinary Studies of the Middle East&lt;/h2&gt;
-&lt;div class=&#34;experience-header&#34;&gt;
-  &lt;h3&gt;Freie Universität Berlin&lt;/h3&gt;
-  &lt;img src=&#34;https://hiburaku.github.io/burak-cv/logos/fu-berlin.png&#34; alt=&#34;Freie Universität Berlin Logo&#34; class=&#34;experience-logo-right&#34; /&gt;
-&lt;/div&gt;
-&lt;p&gt;Berlin, Germany&lt;br&gt;
-&lt;em&gt;September 2024 – Present&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Coursework focuses on the politics, cultures, and societies of the Middle East.&lt;/li&gt;
-&lt;li&gt;Interdisciplinary approach including history, sociology, and political science.&lt;/li&gt;
-&lt;li&gt;Emphasis on academic research and field-related writing.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;bachelors-degree-political-science-and-public-administration&#34;&gt;Bachelor’s Degree, Political Science and Public Administration&lt;/h2&gt;
-&lt;div class=&#34;experience-header&#34;&gt;
-  &lt;h3&gt;Hacettepe University&lt;/h3&gt;
-  &lt;img src=&#34;https://hiburaku.github.io/burak-cv/logos/hacettepe.png&#34; alt=&#34;Hacettepe University Logo&#34; class=&#34;experience-logo-right&#34; /&gt;
-&lt;/div&gt;
-&lt;p&gt;Ankara, Türkiye&lt;br&gt;
-&lt;em&gt;September 2016 – June 2021&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Completed core courses in political theory, public policy, and international relations.&lt;/li&gt;
-&lt;li&gt;Participated in student initiatives and academic conferences.&lt;/li&gt;
-&lt;li&gt;Built strong foundations in administrative and institutional structures.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;exchange-program-political-science-and-international-relations&#34;&gt;Exchange Program, Political Science and International Relations&lt;/h2&gt;
-&lt;div class=&#34;experience-header&#34;&gt;
-  &lt;h3&gt;École de Gouvernance et d&#39;Économie&lt;/h3&gt;
-  &lt;img src=&#34;https://hiburaku.github.io/burak-cv/logos/ege-rabat.png&#34; alt=&#34;EGE Rabat Logo&#34; class=&#34;experience-logo-right&#34; /&gt;
-&lt;/div&gt;
-&lt;p&gt;Rabat, Morocco&lt;br&gt;
-&lt;em&gt;September 2019 – January 2020&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Selected for Erasmus+ exchange program.&lt;/li&gt;
-&lt;li&gt;Focused on North African politics, governance, and Euro-Mediterranean relations.&lt;/li&gt;
-&lt;li&gt;Gained international academic exposure and cross-cultural experience.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo Academic CV Theme</title><link>https://hiburaku.github.io/burak-cv/</link><atom:link href="https://hiburaku.github.io/burak-cv/index.xml" rel="self" type="application/rss+xml"/><description>Hugo Academic CV Theme</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://hiburaku.github.io/burak-cv/media/icon_hu_645fa481986063ef.png</url><title>Hugo Academic CV Theme</title><link>https://hiburaku.github.io/burak-cv/</link></image><item><title/><link>https://hiburaku.github.io/burak-cv/home/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hiburaku.github.io/burak-cv/home/experience/</guid><description>&lt;h2 id="reporting-officer">Reporting Officer&lt;/h2>
+&lt;div class="experience-header">
+&lt;h3>Turkish Red Crescent&lt;/h3>
+&lt;img src="https://hiburaku.github.io/burak-cv/logos/trc.png" alt="TRC Logo" class="experience-logo-right" />
+&lt;/div>
+&lt;p>Ankara, Türkiye&lt;br>
+&lt;em>June 2024 – October 2024&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Prepared Power BI dashboards and visual reports showcasing project performance over 5 years.&lt;/li>
+&lt;li>Collaborated with program teams to translate data into strategic insights.&lt;/li>
+&lt;li>Ensured data accuracy and consistency with M&amp;amp;E and IT departments.&lt;/li>
+&lt;li>Developed reporting templates and visualization tools aligned with donor requirements.&lt;/li>
+&lt;li>Contributed to monthly and quarterly narrative reports.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="field-officer">Field Officer&lt;/h2>
+&lt;div class="experience-header">
+&lt;h3>International Federation of Red Cross and Red Crescent Societies (IFRC)&lt;/h3>
+&lt;img src="https://hiburaku.github.io/burak-cv/logos/ifrc.png" alt="IFRC Logo" class="experience-logo-right" />
+&lt;/div>
+&lt;p>Gaziantep, Türkiye&lt;br>
+&lt;em>July 2023 – December 2023&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Supported earthquake recovery as part of the Emergency Response Unit (ERU).&lt;/li>
+&lt;li>Joined field visits and ESSN coordination meetings.&lt;/li>
+&lt;li>Built data visualizations using Power BI.&lt;/li>
+&lt;li>Conducted joint field missions with TRC teams.&lt;/li>
+&lt;li>Participated in coordination meetings and supported field-level planning and monitoring.&lt;/li>
+&lt;li>Flagged protection/outreach/SASF issues to IFRC management.&lt;/li>
+&lt;li>Liaised with local authorities, UN agencies, and NGOs.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="field-assistant">Field Assistant&lt;/h2>
+&lt;div class="experience-header">
+&lt;h3>International Federation of Red Cross and Red Crescent Societies (IFRC)&lt;/h3>
+&lt;img src="https://hiburaku.github.io/burak-cv/logos/ifrc.png" alt="IFRC Logo" class="experience-logo-right" />
+&lt;/div>
+&lt;p>Gaziantep, Türkiye&lt;br>
+&lt;em>May 2022 – July 2023&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Supported earthquake recovery as part of the ERU.&lt;/li>
+&lt;li>Attended field visits and meetings for the ESSN Project.&lt;/li>
+&lt;li>Managed finance, administration, logistics at IFRC Gaziantep Office.&lt;/li>
+&lt;li>Prepared dashboards in Power BI based on team needs.&lt;/li>
+&lt;li>Liaised with Finance, Admin, Logistics, Procurement, and IM teams in Ankara.&lt;/li>
+&lt;li>Oversaw drivers, security, and cleaning staff in Gaziantep office.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="international-key-account-manager">International Key Account Manager&lt;/h2>
+&lt;div class="experience-header">
+&lt;h3>Vestel International&lt;/h3>
+&lt;img src="https://hiburaku.github.io/burak-cv/logos/vestel.png" alt="Vestel Logo" class="experience-logo-right" />
+&lt;/div>
+&lt;p>Manisa, Türkiye&lt;br>
+&lt;em>January 2022 – May 2022&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Managed 11+ clients across six countries with $42.5M annual turnover.&lt;/li>
+&lt;li>Handled full sales cycle from offers to payments and shipments.&lt;/li>
+&lt;li>Promoted new products during client visits and international expos.&lt;/li>
+&lt;li>Tracked market trends and responded with R&amp;amp;D launches.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="business-intelligence-intern">Business Intelligence Intern&lt;/h2>
+&lt;div class="experience-header">
+&lt;h3>Migrapreneur&lt;/h3>
+&lt;img src="https://hiburaku.github.io/burak-cv/logos/migrapreneur.png" alt="Migrapreneur Logo" class="experience-logo-right" />
+&lt;/div>
+&lt;p>Berlin, Germany&lt;br>
+&lt;em>June 2021 – September 2021&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Researched migrant entrepreneurship in Germany (Turkish, Polish, Italian).&lt;/li>
+&lt;li>Authored reports and insights to improve business intelligence.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="volunteer--data-collection--mapping">Volunteer – Data Collection &amp;amp; Mapping&lt;/h2>
+&lt;div class="experience-header">
+&lt;h3>Go For (Youth Organizations Forum)&lt;/h3>
+&lt;img src="https://hiburaku.github.io/burak-cv/logos/gofor.png" alt="GOFOR Logo" class="experience-logo-right" />
+&lt;/div>
+&lt;p>Ankara, Türkiye&lt;br>
+&lt;em>August 2020 – June 2021&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Collected and analyzed youth rights violation data during COVID-19.&lt;/li>
+&lt;li>Conducted literature reviews and supported reporting &amp;amp; mapping efforts.&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://hiburaku.github.io/burak-cv/home/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hiburaku.github.io/burak-cv/home/about/</guid><description>&lt;div align="center">
+&lt;img src="https://hiburaku.github.io/burak-cv/image/avatar.jpg" alt="Burak Can Kaya avatar" width="160" height="160" style="border-radius: 50%;" />
+&lt;h2 id="burak-can-kaya">Burak Can Kaya&lt;/h2>
+&lt;p>M.A. candidate in Interdisciplinary Studies of Middle East at Freie Universität Berlin with a strong foundation in humanitarian action.&lt;/p>
+&lt;p>Experienced in supporting international humanitarian organizations with a focus on field operations, third-party monitoring, and emergency response in complex and high-need contexts.&lt;/p>
+&lt;div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 15px;">
+&lt;p>&lt;a href="https://hiburaku.github.io/burak-cv/files/burak_can_kaya_cv.pdf"
+style="background-color: #4f46e5; color: white; padding: 12px 0; width: 180px; border-radius: 8px; text-decoration: none; font-weight: 600; text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
+&lt;span>📁&lt;/span> &lt;span>Download CV&lt;/span>
+&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.linkedin.com/in/burak-can-kaya-2a42b7163/" target="_blank"
+style="background-color: #0a66c2; color: white; padding: 12px 0; width: 180px; border-radius: 8px; text-decoration: none; font-weight: 600; text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
+&lt;span>🔗&lt;/span> &lt;span>LinkedIn&lt;/span>
+&lt;/a>&lt;/p>
+&lt;p>&lt;a href="mailto:burakcankaya@hotmail.com"
+style="background-color: #6b7280; color: white; padding: 12px 0; width: 180px; border-radius: 8px; text-decoration: none; font-weight: 600; text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
+&lt;span>✉️&lt;/span> &lt;span>Mail&lt;/span>
+&lt;/a>&lt;/p>
+&lt;/div></description></item><item><title/><link>https://hiburaku.github.io/burak-cv/home/education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hiburaku.github.io/burak-cv/home/education/</guid><description>&lt;h2 id="masters-degree-interdisciplinary-studies-of-the-middle-east">Master’s Degree, Interdisciplinary Studies of the Middle East&lt;/h2>
+&lt;div class="experience-header">
+&lt;h3>Freie Universität Berlin&lt;/h3>
+&lt;img src="https://hiburaku.github.io/burak-cv/logos/fu-berlin.png" alt="Freie Universität Berlin Logo" class="experience-logo-right" />
+&lt;/div>
+&lt;p>Berlin, Germany&lt;br>
+&lt;em>September 2024 – Present&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Coursework focuses on the politics, cultures, and societies of the Middle East.&lt;/li>
+&lt;li>Interdisciplinary approach including history, sociology, and political science.&lt;/li>
+&lt;li>Emphasis on academic research and field-related writing.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="bachelors-degree-political-science-and-public-administration">Bachelor’s Degree, Political Science and Public Administration&lt;/h2>
+&lt;div class="experience-header">
+&lt;h3>Hacettepe University&lt;/h3>
+&lt;img src="https://hiburaku.github.io/burak-cv/logos/hacettepe.png" alt="Hacettepe University Logo" class="experience-logo-right" />
+&lt;/div>
+&lt;p>Ankara, Türkiye&lt;br>
+&lt;em>September 2016 – June 2021&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Completed core courses in political theory, public policy, and international relations.&lt;/li>
+&lt;li>Participated in student initiatives and academic conferences.&lt;/li>
+&lt;li>Built strong foundations in administrative and institutional structures.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="exchange-program-political-science-and-international-relations">Exchange Program, Political Science and International Relations&lt;/h2>
+&lt;div class="experience-header">
+&lt;h3>École de Gouvernance et d'Économie&lt;/h3>
+&lt;img src="https://hiburaku.github.io/burak-cv/logos/ege-rabat.png" alt="EGE Rabat Logo" class="experience-logo-right" />
+&lt;/div>
+&lt;p>Rabat, Morocco&lt;br>
+&lt;em>September 2019 – January 2020&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Selected for Erasmus+ exchange program.&lt;/li>
+&lt;li>Focused on North African politics, governance, and Euro-Mediterranean relations.&lt;/li>
+&lt;li>Gained international academic exposure and cross-cultural experience.&lt;/li>
+&lt;/ul></description></item></channel></rss>
